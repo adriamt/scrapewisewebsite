@@ -7,7 +7,6 @@ function Footer() {
         <footer className="appie-footer-area appie-footer-8-area pt-80 pb-40">
             <div className="container">
                 <div className="text-center mb-40">
-                    <img src={logo} alt="ScrapeWise Logo" style={{ height: '40px' }} />
                 </div>
 
                 <div className="row justify-content-center">
